@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rizz Nur Saidy</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+- 🌱 Currently learning: **C** and **Java**.
+- 💼 Open for: Internship opportunities and freelance projects.
 - 📫 How to reach me **rnursaidy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="https://linkedin.com/in/yourlinkedinprofile" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yourlinkedinprofile" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
