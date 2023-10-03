@@ -12,5 +12,7 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizgif&show_icons=true&theme=radical" alt="yourusername" />
 </p>
+
+<h3 align="left">🚀 Projects:</h3>
