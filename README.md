@@ -50,14 +50,14 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
   </a>  
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="40" height="40"/> 
+  </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/cucumber/common/main/docs/logo/cucumber-black-512.png" alt="Cucumber" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/cucumber/cucumber/master/images/logos/cucumber/cucumber-open-logo.png" alt="Cucumber" width="40" height="40"/> 
   </a>
   <a href="https://cucumber.io/docs/gherkin/" target="_blank" rel="noreferrer"> 
-    <img src="https://cucumber.io/img/gherkin-logo.png" alt="Gherkin" width="40" height="40"/> 
-  </a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Neovim-logo.svg/1200px-Neovim-logo.svg.png" alt="Neovim" width="40" height="40"/> 
+    <img src="https://cucumber.io/img/gherkin.png" alt="Gherkin" width="40" height="40"/> 
   </a>
 </p>
 
