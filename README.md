@@ -4,6 +4,7 @@
 - 🌱 Currently learning: **C#**, **Swift**, and **.NET**.
 - 💼 Open for: Internship opportunities and freelance projects.
 - 📫 How to reach me: **rnursaidy@gmail.com**
+- 🌐 Website: [therizcode.com/portfolio](https://therizcode.com/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,4 +65,5 @@
 <ul>
   <li><a href="https://github.com/rizgif/Coursla-App.git"><strong>Coursla</strong></a></li>
   <li><a href="https://github.com/rizgif/HeatPro-App.git"><strong>HeatPro</strong></a></li>
+  <li><a href="https://therizcode.com/portfolio"><strong>Portfolio Website</strong></a></li>
 </ul>
