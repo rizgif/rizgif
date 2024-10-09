@@ -15,29 +15,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/static/logo.svg" alt="Playwright" width="40" height="40"/> 
-  </a> 
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/cucumber-ltd/cucumber-brand/main/cucumber/full/cucumber-black-512.png" alt="Cucumber" width="40" height="40"/> 
-  </a> 
-</p>
+<ul>
+  <li><strong>Programming Languages:</strong> Python, JavaScript</li>
+  <li><strong>DevOps Tools:</strong> Jenkins, Docker, Kubernetes</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Automation and Testing:</strong> Playwright, Cucumber</li>
+  <li><strong>Operating Systems:</strong> Linux, macOS</li>
+  <li><strong>Cloud Technologies:</strong> AWS (learning)</li>
+  <li><strong>Infrastructure as Code:</strong> Ansible (soon), Terraform (soon)</li>
+  <li><strong>Monitoring Tools:</strong> Prometheus (soon), Grafana (soon)</li>
+</ul>
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
