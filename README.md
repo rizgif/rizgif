@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riz Nur Saidy</h1>
-<h3 align="center">I'm a DevOps Engineer skilled in Git, Linux, Python, Jenkins, and Docker. Passionate about automation, infrastructure as code, and CI/CD, I'm currently learning AWS and will be expanding my expertise with Ansible, Terraform, Prometheus, and Grafana later on. I'm eager to bring my evolving skill set to a dynamic team, helping streamline software delivery and optimize scalable infrastructures. Let's connect!</h3>
+<h3 align="center">I'm a DevOps Engineer skilled in Git, Linux, Python, Jenkins, Docker, Playwright, and Cucumber. Passionate about automation, infrastructure as code, and CI/CD, I'm currently learning AWS and will be expanding my expertise with Ansible, Terraform, Prometheus, and Grafana later on. I'm eager to bring my evolving skill set to a dynamic team, helping streamline software delivery and optimize scalable infrastructures. Let's connect!</h3>
 
 - 🌱 Currently learning: **AWS**.
 - 🔜 Next in line: **Ansible**, **Terraform**, **Prometheus**, and **Grafana**.
@@ -30,6 +30,12 @@
   </a> 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
+  </a> 
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/static/logo.svg" alt="Playwright" width="40" height="40"/> 
+  </a> 
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/cucumber-ltd/cucumber-brand/main/cucumber/full/cucumber-black-512.png" alt="Cucumber" width="40" height="40"/> 
   </a> 
 </p>
 
