@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riz Nur Saidy</h1>
-<h3 align="center">I'm a DevOps Engineer skilled in Git, Linux, Python, Jenkins, and Docker. Passionate about automation, infrastructure as code, and CI/CD, I'm continuously expanding my expertise to include Ansible, AWS, Terraform, Prometheus, and Grafana. I'm eager to bring my evolving skill set to a dynamic team, helping streamline software delivery and optimize scalable infrastructures. Let's connect!</h3>
+<h3 align="center">I'm a DevOps Engineer skilled in Git, Linux, Python, Jenkins, and Docker. Passionate about automation, infrastructure as code, and CI/CD, I'm currently learning AWS and will be expanding my expertise with Ansible, Terraform, Prometheus, and Grafana later on. I'm eager to bring my evolving skill set to a dynamic team, helping streamline software delivery and optimize scalable infrastructures. Let's connect!</h3>
 
-- 🌱 Currently learning: **Ansible**, **AWS**, **Terraform**, **Prometheus**, and **Grafana**.
+- 🌱 Currently learning: **AWS**.
+- 🔜 Next in line: **Ansible**, **Terraform**, **Prometheus**, and **Grafana**.
 - 💼 Open for: Internship opportunities and freelance projects.
 - 📫 How to reach me: **rnursaidy@gmail.com**
 - 🌐 Website: [therizcode.com/portfolio](https://therizcode.com/portfolio)
