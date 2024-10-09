@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning: **AWS**.
 - 🔜 Next in line: **Ansible**, **Terraform**, **Prometheus**, and **Grafana**.
-- 💼 Open for: Internship opportunities and freelance projects.
+- 💼 Open for: Internship or job opportunities.
 - 📫 How to reach me: **rnursaidy@gmail.com**
 - 🌐 Website: [therizcode.com/portfolio](https://therizcode.com/portfolio)
 
