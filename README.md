@@ -26,6 +26,21 @@
   <li><strong>Monitoring Tools:</strong> Prometheus (soon), Grafana (soon)</li>
 </ul>
 
+<h3 align="left">Languages Learned at BCIT:</h3>
+<ul>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>.NET</li>
+  <li>Swift</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Bootstrap</li>
+  <li>Tailwind CSS</li>
+  <li>C</li>
+</ul>
+
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rizgif&show_icons=true&theme=radical" alt="rizgif's GitHub Stats" />
