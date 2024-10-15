@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages Learned at BCIT:</h3>
 <ul>
-  <li><strong>Programming Languages:</strong> Java, JavaScript, C, Swift</li>
+  <li><strong>Programming Languages:</strong> Java, Python, JavaScript, C, Swift</li>
   <li><strong>Web Development:</strong> HTML, CSS, React, Node.js</li>
   <li><strong>Frameworks & Libraries:</strong> .NET, Bootstrap, Tailwind CSS</li>
 </ul>
