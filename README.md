@@ -5,7 +5,7 @@
 - 🔜 Next in line: **Ansible**, **Terraform**, **Prometheus**, and **Grafana**.
 - 💼 Open for: Internship or job opportunities.
 - 📫 How to reach me: **rnursaidy@gmail.com**
-- 🌐 Website: [therizcode.com/portfolio](https://therizcode.com/portfolio)
+- 🌐 Website: [therizcode.com/portfolio](https://therizcode.com/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
