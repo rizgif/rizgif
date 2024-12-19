@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riz Nur Saidy</h1>
-<h3 align="center">I'm a DevOps Engineer skilled in Git, Linux, Python, Jenkins, Docker, Playwright, and Cucumber. Passionate about automation, infrastructure as code, and CI/CD.</h3>
+<h1 align="center">Hi 👋, I'm Riz Nur Saidy</h1> <h3 align="center">Aspiring Software Developer and IT Engineer skilled in Git, Linux, Python, Jenkins, Docker, Playwright, and Cucumber. Passionate about automation, web development, and CI/CD.</h3>
 
 - 🌱 Currently learning: **AWS**.
 - 🔜 Next in line: **Ansible**, **Terraform**, **Prometheus**, and **Grafana**.
