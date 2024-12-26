@@ -4,11 +4,10 @@
 - 🔜 Next in line: **Ansible**, **Terraform**, **Prometheus**, and **Grafana**.
 - 💼 Open for: Internship or job opportunities.
 - 📫 How to reach me: **rnursaidy@gmail.com**
-- 🌐 Website: [therizcode.com/portfolio](https://therizcode.com/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://linkedin.com/in/yourlinkedinprofile" target="_blank">
+   <a href="https://www.linkedin.com/in/riznursaidy/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
